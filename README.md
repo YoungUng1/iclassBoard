@@ -16,7 +16,7 @@
 * git fetch - 원격 저장소의 master 변경 커밋 내용 확인
 * git pull - 원격 저장소 master 의 변경 커밋 가져오기
 
-4 빌드도구
+4. 빌드도구
 * grandle 또는 maven을 주로 사용.
 * maven 으로 하겠습니다. 프로젝트 선택 - 오른쪽 버튼 메뉴 Configure - convert to maven project
 * pom.xml 의 오류는 run as 에서 maven install 후에 프로젝트 우클릭 -> maven 에서 update project
